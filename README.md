@@ -1,5 +1,6 @@
 # word-smith
 **Rhyme**: Find 10 words that rhyme with your input word.
+
 **Topic**: Find 10 adjectives that describe your input word (topic)
 
 <h2>How to use word-smith?</h2>
