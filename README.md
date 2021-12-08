@@ -4,11 +4,13 @@ Find words that rhyme with your word query.
 <h2>How to use word-smith?</h2>
 Enter a word from the English-language in the input box to display 10 English-language words that rhyme with your word.
 
-Utilized the XMLHttpRequest (XHR) web API to make an asynchronous request and used AJAX to handle the data from the request.
+Utilized the XMLHttpRequest (XHR) web API to make a GET request to the Datamuse API to find words that rhyme and used AJAX to handle the data from the request.
 
 Future work
 This is v1.0 of word-smith, which was created by Brian Nwaeke.
 Ongoing work for /v2/ is focused on the following areas:
+
+→ Create a request to set a topic and find adjectives that describe the input word using query strings.
 
 → This resource is useful as a backend for “autocomplete” widgets on websites and apps when the vocabulary of possible search terms is very large. It provides word suggestions given a partially-entered query using a combination of the operations described in the “/words” resource above. 
 
