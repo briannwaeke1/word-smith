@@ -1,7 +1,7 @@
 // Information to reach API
 const url = 'https://api.datamuse.com/words?';
 
-// Constraints on the result set 
+// A query string is part of the full query, or URL, which allows you to send information using parameters as key-value pairs. queryParams will be the constraints on the result set 
 const queryParams = 'rel_rhy=';
 
 // Selecting page elements
