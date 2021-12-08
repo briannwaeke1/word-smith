@@ -1,5 +1,6 @@
 # word-smith
-Find words that rhyme with your word query.
+**Rhyme**: Find 10 words that rhyme with your input word.
+**Topic**: Find 10 adjectives that describe your input word (topic)
 
 <h2>How to use word-smith?</h2>
 Enter a word from the English-language in the input box to display 10 English-language words that rhyme with your word.
